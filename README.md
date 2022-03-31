@@ -1,2 +1,1 @@
-# Java_study_experiment_195779
-大三上学期的Java课程的实验，代码文件
+# 第一次上传一个android广播功能的小的测试项目
