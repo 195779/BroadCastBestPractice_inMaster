@@ -44,6 +44,24 @@
             android:layout_gravity="center_vertical"
             android:id="@+id/textpassword"/>
     </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <CheckBox
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/remember_pass"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="18dp"
+            android:text="Remember the password"
+            android:textAllCaps="false"/>
+    </LinearLayout>
+
     <Button
         android:layout_width="match_parent"
         android:layout_height="60dp"
